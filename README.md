@@ -1,1 +1,2 @@
 # Bill-management-system
+This Python project uses Tkinter for a GUI-based bill management system. It allows users to input quantities of food items like dosa, cookies, tea, etc., calculates the total bill based on predefined prices, and offers functionality to reset inputs for new calculations. Simply clone the repository, run bill_management_system.py, and use the intuitive interface to manage bills effortlessly. 
